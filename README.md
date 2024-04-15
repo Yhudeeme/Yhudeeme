@@ -39,7 +39,7 @@ The app is configured to run with Flask. If you have Python and Flask, you can c
 - Enhance the backend with additional features such as deadline reminders and interview/exam preparation resources.
 - Develop the frontend of the application using HTML, CSS, and JavaScript.
 - Implement user authentication and authorization for secure access to user data.
-- Deploy the application to a cloud platform for production use.- 👋 Hi, I’m @Yhudeeme
+- Deploy the application to a cloud platform for production use.
 
 ## Contributors
 - [Mercy Chikezie](https://github.com/yhudeeme/-assisten)
